@@ -1,2 +1,3 @@
 # Dice-simulator
-A dice game
+A dice game and gives you predictions 
+
